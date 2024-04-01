@@ -1,0 +1,73 @@
+a:hover {
+    background-color: #61ff05b6;
+}
+
+button:hover {
+    background-color: #61ff05b6;
+    color: white;
+}
+
+.div {
+    color: rgb(109, 19, 194);
+    background-color: #61ff05b6;
+    max-width: 290px;
+    border: 2px dotted blue;
+    padding-left: 2%;
+}
+
+.img {
+    color: red;
+    background-color: blue;
+    position: fixed;
+    bottom: 0%;
+    right: 11%;
+    font-size: larger;
+}
+
+.img2 {
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+}
+
+.purple {
+    font-variant-caps: small-caps;
+    font-family: roboto;
+    border: 1px rgb(109, 19, 194);
+    border-style: dashed;
+    max-width: max-content;
+    color: rgb(109, 19, 194);
+    background-color: #61ff05b6;
+}
+
+.purple2 {
+    background-color: violet;
+    color: blue;
+    font-variant-caps: small-caps;
+    border: max-content;
+    padding-left: 2%;
+}
+
+.red {
+    color: red;
+    background-color: #61ff05b6;
+    padding-left: 2%;
+    padding-right: 1%;
+    font-variant-caps: small-caps;
+    max-width: max-content;
+}
+
+.section {
+    background-color: rgba(156, 106, 202, 0.493);
+    max-width: max-content;
+}
+
+span {
+    color: rgba(228, 17, 17, 0.685);
+}
+
+.white {
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+}
